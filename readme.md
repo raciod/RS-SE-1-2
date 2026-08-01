@@ -13,3 +13,11 @@
 - [ ] Programmation_Reseaux_et_Systeme (S6)
 - [ ] Reseaux (S5)
 - [ ] Reseaux_avances (S6)
+
+## Contributing Notes
+
+Each module has a `notes.md` file. When adding a note:
+
+1. Write in Markdown. If you don't know Markdown, learn the basics (10 min) here:
+   https://www.markdownguide.org/cheat-sheet/
+   or just ask an AI assistant to format your notes into Markdown for you.
