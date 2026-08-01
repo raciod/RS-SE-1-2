@@ -21,3 +21,23 @@ Each module has a `notes.md` file. When adding a note:
 1. Write in Markdown. If you don't know Markdown, learn the basics (10 min) here:
    https://www.markdownguide.org/cheat-sheet/
    or just ask an AI assistant to format your notes into Markdown for you.
+
+2. Tag your note with your GitHub handle next to the title:
+   ```
+   ## Topic Title — @yourusername
+   ```
+
+3. Keep one `##` heading per topic/lecture so the file stays scannable.
+
+### Example `notes.md` structure
+
+```markdown
+# Systeme d'exploitation 1 — Notes
+
+## Processus et Threads — @raciod
+- A process is...
+- Key syscalls: fork(), exec(), wait()
+
+## Scheduling — @contributor2
+- FCFS, Round Robin, Priority scheduling
+```
